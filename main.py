@@ -40,7 +40,7 @@ seed_eval = input("Do you want to run for 301769 seed? TYPE YES or NO! In negati
 
 if seed_eval=="YES":
 
-	seed = 301769
+	seed = 301178
 	train_test_ratio = 0.5
 	X_train, X_test, y_train, y_test, mean_X, std_X, mean_Y, std_Y, regressors = data_preprocess(data_subj_ori, train_test_ratio, random_seed=seed)
 
