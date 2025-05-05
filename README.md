@@ -13,7 +13,7 @@ This repository contains the implementation of several linear regression models 
 
 ## Introduction
 
-You can read the full version of report in ```Regression on Parkinson's Disease Data.pdf```. Parkinson's Disease is a neurodegenerative disorder that affects mainly dopamine-producing neurons in the substantia nigra, a region of the brain responsible for dopamine production. Symptoms generally develop slowly over the years, and the progression of symptoms varies from person to person. This project aims to predict the progression of Parkinson's Disease using voice recordings of patients, which can be easily collected through smartphones.
+Parkinson's Disease is a neurodegenerative disorder that affects mainly dopamine-producing neurons in the substantia nigra, a region of the brain responsible for dopamine production. Symptoms generally develop slowly over the years, and the progression of symptoms varies from person to person. This project aims to predict the progression of Parkinson's Disease using voice recordings of patients, which can be easily collected through smartphones.
 
 ## Dataset
 
